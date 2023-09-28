@@ -2,7 +2,7 @@
 [[main]]
 identifier = "home"
 name = "Home"
-url = "/"
+url = "/public"
 [main.params]
 icon = "home"
 newtab = true
